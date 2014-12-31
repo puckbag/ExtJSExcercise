@@ -9,10 +9,9 @@ Ext.define('ExtJSExcercise.Application', {
     name: 'ExtJSExcercise',
 
     stores: [
-        // TODO: add global / shared stores here
+        'People'
     ],
     
     launch: function () {
-        // TODO - Launch the application
     }
 });

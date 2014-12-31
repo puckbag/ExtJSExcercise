@@ -10,5 +10,4 @@ Ext.define('ExtJSExcercise.view.main.MainModel', {
         name: 'ExtJSExcercise'
     }
 
-    //TODO - add data, formulas and/or methods to support your view
 });
