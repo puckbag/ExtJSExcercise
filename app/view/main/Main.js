@@ -5,12 +5,12 @@
  *
  * TODO - Replace this content of this view to suite the needs of your application.
  */
-Ext.define('ExtJSExcercise.view.main.Main', {
+Ext.define('ExtJSExercise.view.main.Main', {
     extend: 'Ext.container.Container',
     requires: [
-        'ExtJSExcercise.view.main.MainController',
-        'ExtJSExcercise.view.main.MainModel',
-        'ExtJSExcercise.view.people.FormGrid'
+        'ExtJSExercise.view.main.MainController',
+        'ExtJSExercise.view.main.MainModel',
+        'ExtJSExercise.view.people.FormGrid'
     ],
 
     xtype: 'app-main',

@@ -1,3 +1,3 @@
-Ext.define('ExtJSExcercise.model.Base', {
+Ext.define('ExtJSExercise.model.Base', {
     extend: 'Ext.data.Model'
 });

@@ -4,14 +4,14 @@
  * Sencha Cmd when upgrading.
  */
 Ext.application({
-    name: 'ExtJSExcercise',
+    name: 'ExtJSExercise',
 
-    extend: 'ExtJSExcercise.Application',
+    extend: 'ExtJSExercise.Application',
     
-    autoCreateViewport: 'ExtJSExcercise.view.main.Main'
+    autoCreateViewport: 'ExtJSExercise.view.main.Main'
 	
     //-------------------------------------------------------------------------
-    // Most customizations should be made to ExtJSExcercise.Application. If you need to
+    // Most customizations should be made to ExtJSExercise.Application. If you need to
     // customize this file, doing so below this section reduces the likelihood
     // of merge conflicts when upgrading to new versions of Sencha Cmd.
     //-------------------------------------------------------------------------

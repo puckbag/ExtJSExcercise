@@ -35,23 +35,23 @@
       "parameters": {
         "appControllers": "",
         "appModels": "",
-        "appName": "ExtJSExcercise",
+        "appName": "ExtJSExercise",
         "appStores": "",
         "appViews": "",
         "controllerFileName": "Main",
         "controllerName": "Main",
-        "controllerNamespace": "ExtJSExcercise.controller",
+        "controllerNamespace": "ExtJSExercise.controller",
         "frameworkName": "ext",
         "frameworkPath": "ext",
-        "modelNamespace": "ExtJSExcercise.model",
-        "name": "ExtJSExcercise",
+        "modelNamespace": "ExtJSExercise.model",
+        "name": "ExtJSExercise",
         "packagesRelPath": "ext/packages",
         "senchadir": ".sencha",
         "themeName": "default",
         "uniqueId": "9a6f29a3-caa0-4ca2-a539-70284729a6cd",
         "viewFileName": "Main",
         "viewName": "Main",
-        "viewNamespace": "ExtJSExcercise.view"
+        "viewNamespace": "ExtJSExercise.view"
       }
     },
     ".sencha/app/development.properties": {
@@ -60,23 +60,23 @@
       "parameters": {
         "appControllers": "",
         "appModels": "",
-        "appName": "ExtJSExcercise",
+        "appName": "ExtJSExercise",
         "appStores": "",
         "appViews": "",
         "controllerFileName": "Main",
         "controllerName": "Main",
-        "controllerNamespace": "ExtJSExcercise.controller",
+        "controllerNamespace": "ExtJSExercise.controller",
         "frameworkName": "ext",
         "frameworkPath": "ext",
-        "modelNamespace": "ExtJSExcercise.model",
-        "name": "ExtJSExcercise",
+        "modelNamespace": "ExtJSExercise.model",
+        "name": "ExtJSExercise",
         "packagesRelPath": "ext/packages",
         "senchadir": ".sencha",
         "themeName": "default",
         "uniqueId": "9a6f29a3-caa0-4ca2-a539-70284729a6cd",
         "viewFileName": "Main",
         "viewName": "Main",
-        "viewNamespace": "ExtJSExcercise.view"
+        "viewNamespace": "ExtJSExercise.view"
       }
     },
     ".sencha/app/native.properties": {
@@ -85,23 +85,23 @@
       "parameters": {
         "appControllers": "",
         "appModels": "",
-        "appName": "ExtJSExcercise",
+        "appName": "ExtJSExercise",
         "appStores": "",
         "appViews": "",
         "controllerFileName": "Main",
         "controllerName": "Main",
-        "controllerNamespace": "ExtJSExcercise.controller",
+        "controllerNamespace": "ExtJSExercise.controller",
         "frameworkName": "ext",
         "frameworkPath": "ext",
-        "modelNamespace": "ExtJSExcercise.model",
-        "name": "ExtJSExcercise",
+        "modelNamespace": "ExtJSExercise.model",
+        "name": "ExtJSExercise",
         "packagesRelPath": "ext/packages",
         "senchadir": ".sencha",
         "themeName": "default",
         "uniqueId": "9a6f29a3-caa0-4ca2-a539-70284729a6cd",
         "viewFileName": "Main",
         "viewName": "Main",
-        "viewNamespace": "ExtJSExcercise.view"
+        "viewNamespace": "ExtJSExercise.view"
       }
     },
     ".sencha/app/package.properties": {
@@ -110,23 +110,23 @@
       "parameters": {
         "appControllers": "",
         "appModels": "",
-        "appName": "ExtJSExcercise",
+        "appName": "ExtJSExercise",
         "appStores": "",
         "appViews": "",
         "controllerFileName": "Main",
         "controllerName": "Main",
-        "controllerNamespace": "ExtJSExcercise.controller",
+        "controllerNamespace": "ExtJSExercise.controller",
         "frameworkName": "ext",
         "frameworkPath": "ext",
-        "modelNamespace": "ExtJSExcercise.model",
-        "name": "ExtJSExcercise",
+        "modelNamespace": "ExtJSExercise.model",
+        "name": "ExtJSExercise",
         "packagesRelPath": "ext/packages",
         "senchadir": ".sencha",
         "themeName": "default",
         "uniqueId": "9a6f29a3-caa0-4ca2-a539-70284729a6cd",
         "viewFileName": "Main",
         "viewName": "Main",
-        "viewNamespace": "ExtJSExcercise.view"
+        "viewNamespace": "ExtJSExercise.view"
       }
     },
     ".sencha/app/production.properties": {
@@ -135,23 +135,23 @@
       "parameters": {
         "appControllers": "",
         "appModels": "",
-        "appName": "ExtJSExcercise",
+        "appName": "ExtJSExercise",
         "appStores": "",
         "appViews": "",
         "controllerFileName": "Main",
         "controllerName": "Main",
-        "controllerNamespace": "ExtJSExcercise.controller",
+        "controllerNamespace": "ExtJSExercise.controller",
         "frameworkName": "ext",
         "frameworkPath": "ext",
-        "modelNamespace": "ExtJSExcercise.model",
-        "name": "ExtJSExcercise",
+        "modelNamespace": "ExtJSExercise.model",
+        "name": "ExtJSExercise",
         "packagesRelPath": "ext/packages",
         "senchadir": ".sencha",
         "themeName": "default",
         "uniqueId": "9a6f29a3-caa0-4ca2-a539-70284729a6cd",
         "viewFileName": "Main",
         "viewName": "Main",
-        "viewNamespace": "ExtJSExcercise.view"
+        "viewNamespace": "ExtJSExercise.view"
       }
     },
     ".sencha/app/sencha.cfg": {
@@ -160,23 +160,23 @@
       "parameters": {
         "appControllers": "",
         "appModels": "",
-        "appName": "ExtJSExcercise",
+        "appName": "ExtJSExercise",
         "appStores": "",
         "appViews": "",
         "controllerFileName": "Main",
         "controllerName": "Main",
-        "controllerNamespace": "ExtJSExcercise.controller",
+        "controllerNamespace": "ExtJSExercise.controller",
         "frameworkName": "ext",
         "frameworkPath": "ext",
-        "modelNamespace": "ExtJSExcercise.model",
-        "name": "ExtJSExcercise",
+        "modelNamespace": "ExtJSExercise.model",
+        "name": "ExtJSExercise",
         "packagesRelPath": "ext/packages",
         "senchadir": ".sencha",
         "themeName": "default",
         "uniqueId": "9a6f29a3-caa0-4ca2-a539-70284729a6cd",
         "viewFileName": "Main",
         "viewName": "Main",
-        "viewNamespace": "ExtJSExcercise.view"
+        "viewNamespace": "ExtJSExercise.view"
       }
     },
     ".sencha/app/testing.properties": {
@@ -185,23 +185,23 @@
       "parameters": {
         "appControllers": "",
         "appModels": "",
-        "appName": "ExtJSExcercise",
+        "appName": "ExtJSExercise",
         "appStores": "",
         "appViews": "",
         "controllerFileName": "Main",
         "controllerName": "Main",
-        "controllerNamespace": "ExtJSExcercise.controller",
+        "controllerNamespace": "ExtJSExercise.controller",
         "frameworkName": "ext",
         "frameworkPath": "ext",
-        "modelNamespace": "ExtJSExcercise.model",
-        "name": "ExtJSExcercise",
+        "modelNamespace": "ExtJSExercise.model",
+        "name": "ExtJSExercise",
         "packagesRelPath": "ext/packages",
         "senchadir": ".sencha",
         "themeName": "default",
         "uniqueId": "9a6f29a3-caa0-4ca2-a539-70284729a6cd",
         "viewFileName": "Main",
         "viewName": "Main",
-        "viewNamespace": "ExtJSExcercise.view"
+        "viewNamespace": "ExtJSExercise.view"
       }
     },
     "index.html": {
@@ -210,23 +210,23 @@
       "parameters": {
         "appControllers": "",
         "appModels": "",
-        "appName": "ExtJSExcercise",
+        "appName": "ExtJSExercise",
         "appStores": "",
         "appViews": "",
         "controllerFileName": "Main",
         "controllerName": "Main",
-        "controllerNamespace": "ExtJSExcercise.controller",
+        "controllerNamespace": "ExtJSExercise.controller",
         "frameworkName": "ext",
         "frameworkPath": "ext",
-        "modelNamespace": "ExtJSExcercise.model",
-        "name": "ExtJSExcercise",
+        "modelNamespace": "ExtJSExercise.model",
+        "name": "ExtJSExercise",
         "packagesRelPath": "ext/packages",
         "senchadir": ".sencha",
         "themeName": "default",
         "uniqueId": "9a6f29a3-caa0-4ca2-a539-70284729a6cd",
         "viewFileName": "Main",
         "viewName": "Main",
-        "viewNamespace": "ExtJSExcercise.view"
+        "viewNamespace": "ExtJSExercise.view"
       }
     },
     "sass/config.rb": {
@@ -235,23 +235,23 @@
       "parameters": {
         "appControllers": "",
         "appModels": "",
-        "appName": "ExtJSExcercise",
+        "appName": "ExtJSExercise",
         "appStores": "",
         "appViews": "",
         "controllerFileName": "Main",
         "controllerName": "Main",
-        "controllerNamespace": "ExtJSExcercise.controller",
+        "controllerNamespace": "ExtJSExercise.controller",
         "frameworkName": "ext",
         "frameworkPath": "ext",
-        "modelNamespace": "ExtJSExcercise.model",
-        "name": "ExtJSExcercise",
+        "modelNamespace": "ExtJSExercise.model",
+        "name": "ExtJSExercise",
         "packagesRelPath": "ext/packages",
         "senchadir": ".sencha",
         "themeName": "default",
         "uniqueId": "9a6f29a3-caa0-4ca2-a539-70284729a6cd",
         "viewFileName": "Main",
         "viewName": "Main",
-        "viewNamespace": "ExtJSExcercise.view"
+        "viewNamespace": "ExtJSExercise.view"
       }
     }
   }

@@ -1,6 +1,6 @@
 // TODO: use create/update cls selectors for buttons, rather than itemIds
 
-Ext.define('ExtJSExcercise.view.people.Form', {
+Ext.define('ExtJSExercise.view.people.Form', {
     extend: 'Ext.form.Panel',
     xtype: 'people-form',
     trackResetOnLoad: true,
@@ -8,8 +8,8 @@ Ext.define('ExtJSExcercise.view.people.Form', {
     requires: [
         'Ext.form.*',
         'Ext.layout.container.Column',
-        'ExtJSExcercise.model.Person',
-        'ExtJSExcercise.view.people.FieldSet'
+        'ExtJSExercise.model.Person',
+        'ExtJSExercise.view.people.FieldSet'
     ],
 
     items: [{
@@ -32,7 +32,7 @@ Ext.define('ExtJSExcercise.view.people.Form', {
             if (valid) {
                 // add new record to store
                 grid.store.insert(0, 
-                    Ext.create('ExtJSExcercise.model.Person', values));
+                    Ext.create('ExtJSExercise.model.Person', values));
                 grid.store.loadPage(1, {
                     scope: this,
                     callback: function (records, operation, success) {

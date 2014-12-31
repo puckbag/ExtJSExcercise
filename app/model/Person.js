@@ -1,5 +1,5 @@
-Ext.define('ExtJSExcercise.model.Person', {
-    extend: 'ExtJSExcercise.model.Base',
+Ext.define('ExtJSExercise.model.Person', {
+    extend: 'ExtJSExercise.model.Base',
     fields: [
         'name',
         'nickname',

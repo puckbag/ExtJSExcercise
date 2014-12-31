@@ -16,19 +16,19 @@ mixins, etc.).
 
 This folder contains Sass files defining CSS rules corresponding to classes
 included in the application's JavaScript code build. By default, files in this 
-folder are mapped to the application's root namespace, 'ExtJSExcercise'. This is set in
+folder are mapped to the application's root namespace, 'ExtJSExercise'. This is set in
 `"app.json"`:
 
     "sass": {
-        "namespace": "ExtJSExcercise"
+        "namespace": "ExtJSExercise"
     }
 
 ### ./sass/var
 
 This folder contains Sass files defining Sass variables corresponding to classes
 included in the application's JavaScript code build. By default, files in this 
-folder are mapped to the application's root namespace, 'ExtJSExcercise' in the same way
-as `"ExtJSExcercise/sass/src"`.
+folder are mapped to the application's root namespace, 'ExtJSExercise' in the same way
+as `"ExtJSExercise/sass/src"`.
 
 ## Slicing
 

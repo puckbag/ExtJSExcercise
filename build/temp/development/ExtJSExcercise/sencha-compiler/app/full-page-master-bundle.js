@@ -1,2 +1,2 @@
 // @tag full-page
-// @require /Users/tmiller/src/slickss/excercises/ExtJSExcercise/app.js
+// @require /Users/tmiller/src/slickss/excercises/ExtJSExercise/app.js

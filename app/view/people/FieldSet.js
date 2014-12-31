@@ -1,11 +1,11 @@
-Ext.define('ExtJSExcercise.view.people.FieldSet', {
+Ext.define('ExtJSExercise.view.people.FieldSet', {
     extend: 'Ext.form.FieldSet',
     xtype: 'people-fieldset',
 
     requires: [
         'Ext.form.*',
         'Ext.layout.container.Column',
-        'ExtJSExcercise.model.Person'
+        'ExtJSExercise.model.Person'
     ],
 
     defaultType: 'textfield',

@@ -1,4 +1,4 @@
-Ext.define('ExtJSExcercise.view.people.FormGrid', {
+Ext.define('ExtJSExercise.view.people.FormGrid', {
     extend: 'Ext.form.Panel',
     xtype: 'people-formgrid',
     
@@ -6,9 +6,9 @@ Ext.define('ExtJSExcercise.view.people.FormGrid', {
         'Ext.grid.*',
         'Ext.form.*',
         'Ext.layout.container.Column',
-        'ExtJSExcercise.model.Person',
-        'ExtJSExcercise.view.people.GridPanel',
-        'ExtJSExcercise.view.people.Form'
+        'ExtJSExercise.model.Person',
+        'ExtJSExercise.view.people.GridPanel',
+        'ExtJSExercise.view.people.Form'
     ],
 
     frame: true,
@@ -55,7 +55,7 @@ Ext.define('ExtJSExcercise.view.people.FormGrid', {
             for (prop in formvalues) {
                 formvalues[prop] = '';
             }
-            rec = Ext.create('ExtJSExcercise.model.Person', formvalues);
+            rec = Ext.create('ExtJSExercise.model.Person', formvalues);
             form.loadRecord(rec);
             form.reset();
             peopleform.showCreateButtons();

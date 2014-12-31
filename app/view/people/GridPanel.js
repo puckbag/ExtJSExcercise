@@ -1,4 +1,4 @@
-Ext.define('ExtJSExcercise.view.people.GridPanel', {
+Ext.define('ExtJSExercise.view.people.GridPanel', {
     extend: 'Ext.grid.Panel',
     xtype: 'people-gridpanel',
     allowDeselect: true,

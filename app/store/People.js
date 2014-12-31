@@ -1,6 +1,6 @@
-Ext.define('ExtJSExcercise.store.People', {
+Ext.define('ExtJSExercise.store.People', {
     extend: 'Ext.data.Store',
-    model: 'ExtJSExcercise.model.Person',
+    model: 'ExtJSExercise.model.Person',
     autoLoad: true,
     autoSync: true,
     pageSize: 10

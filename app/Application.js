@@ -3,10 +3,10 @@
  * Ext.application(). This is the ideal place to handle application launch and initialization
  * details.
  */
-Ext.define('ExtJSExcercise.Application', {
+Ext.define('ExtJSExercise.Application', {
     extend: 'Ext.app.Application',
     
-    name: 'ExtJSExcercise',
+    name: 'ExtJSExercise',
 
     stores: [
         'People'

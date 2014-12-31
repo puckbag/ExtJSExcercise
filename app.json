@@ -2,7 +2,7 @@
     /**
      * The application's namespace.
      */
-    "name": "ExtJSExcercise",
+    "name": "ExtJSExercise",
 
     /**
      * The relative path to the appliaction's markup file (html, jsp, asp, etc.)
@@ -48,13 +48,13 @@
     "sass": {
         /**
          * The root namespace to use when mapping *.scss files to classes in the
-         * sass/src and sass/var directories. For example, "ExtJSExcercise.view.Foo" would
-         * map to "sass/src/view/Foo.scss". If we changed this to "ExtJSExcercise.view" then
+         * sass/src and sass/var directories. For example, "ExtJSExercise.view.Foo" would
+         * map to "sass/src/view/Foo.scss". If we changed this to "ExtJSExercise.view" then
          * it would map to "sass/src/Foo.scss". To style classes outside the app's
          * root namespace, change this to "". Doing so would change the mapping of
-         * "ExtJSExcercise.view.Foo" to "sass/src/ExtJSExcercise/view/Foo.scss".
+         * "ExtJSExercise.view.Foo" to "sass/src/ExtJSExercise/view/Foo.scss".
          */
-        "namespace": "ExtJSExcercise"
+        "namespace": "ExtJSExercise"
     },
 
     /**
