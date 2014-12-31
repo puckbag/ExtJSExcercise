@@ -7,9 +7,10 @@ Ext.define('ExtJSExercise.view.people.GridPanel', {
         text: 'ID',
         dataIndex: 'id'
     }, {
-        text: 'Name',
-        dataIndex: 'name',
-        flex: 1
+        text: 'Name<br><em>job title</em>',
+        flex: 1,
+        xtype: 'templatecolumn',
+        tpl: '{name}<br><em>{jobtitle}</em>'
     }, {
         text: 'Nickname',
         dataIndex: 'nickname'
@@ -26,9 +27,6 @@ Ext.define('ExtJSExercise.view.people.GridPanel', {
         dataIndex: 'startdate',
         xtype: 'datecolumn',
         format: 'Y-m-d'
-    }, {
-        text: 'Job Title',
-        dataIndex: 'jobtitle'
     }],
 
     initComponent: function () {
