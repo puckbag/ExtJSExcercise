@@ -25,6 +25,7 @@ Ext.define('ExtJSExercise.view.people.FieldSet', {
         name: 'birthdate',
         maxValue: new Date(),
         format: 'Y-m-d',
+        submitFormat: 'Y-m-d',
         allowBlank: false
     }, {
         xtype: 'fieldcontainer',
@@ -46,6 +47,7 @@ Ext.define('ExtJSExercise.view.people.FieldSet', {
         name: 'startdate',
         maxValue: new Date(),
         format: 'Y-m-d',
+        submitFormat: 'Y-m-d',
         disabled: true
     }, {
         fieldLabel: 'Job Title',

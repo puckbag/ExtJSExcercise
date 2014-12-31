@@ -3,9 +3,9 @@ Ext.define('ExtJSExercise.model.Person', {
     fields: [
         'name',
         'nickname',
-        {name: 'birthdate', type: 'date'},
+        {name: 'birthdate', type: 'date', dateFormat: 'Y-m-d'},
         'isEmployee',
-        {name: 'startdate', type: 'date'},
+        {name: 'startdate', type: 'date', dateFormat: 'Y-m-d'},
         'jobtitle'
         ],
     proxy: {
